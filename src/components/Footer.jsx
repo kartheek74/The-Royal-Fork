@@ -66,19 +66,19 @@ const Footer = () => {
 
           <div className="footer-social">
 
-            <a href="#">
+            <a href="/">
               <FaFacebookF />
             </a>
 
-            <a href="#">
+            <a href="/">
               <FaInstagram />
             </a>
 
-            <a href="#">
+            <a href="/">
               <FaXTwitter />
             </a>
 
-            <a href="#">
+            <a href="/">
               <FaYoutube />
             </a>
 
